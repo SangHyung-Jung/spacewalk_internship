@@ -2,7 +2,7 @@
 
 2020.01 ~ 2020.02 인턴 생활 중 수행했던 업무 py 파일 정리
 
-## architect_owner_pre
+## 1. architect_owner_pre
 ### api2.py
 카카오 지도 api 연결, pnu 값 추출하는 모듈
 ### attaching_pnu.py
@@ -12,7 +12,7 @@
 ### architect_address_cleaning.py
 main.py ( 총 5개의 필터를 사용해서 건축물 소유자 주소를 정제, 사내 DB에 구축 )
 
-## new_law_checker
+## 2. new_law_checker
 ### shared
 각종 helper py
 ### sql
